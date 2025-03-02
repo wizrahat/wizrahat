@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🌱 I’m currently focusing on **DSA & competitive programming** in **C++**  
 - 💻 Passionate about **React, Next.js, and frontend development**  
 - ⚡ I enjoy **solving problems & optimizing algorithms**  
-- 📫 How to reach me: [rahat@example.com](mailto:rahat@example.com)  
+- 📫 How to reach me: [rahat@example.com](mailto:rakibulalamrahat24@gmail.com)  
 
 ## 🛠️ Languages and Tools  
 
