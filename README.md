@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🚀 About Me  
 
-- 🌱 I’m currently focusing on **DSA & competitive programming** in **C++**  
+- 🌱 I’m currently focusing on **DSA & Backend development** in **Python**  
 - 💻 Passionate about **React, Next.js, and frontend development**  
 - ⚡ I enjoy **solving problems & optimizing algorithms**  
 - 📫 How to reach me: [rakibulalamrahat24@gmail.com](mailto:rakibulalamrahat24@gmail.com)  
@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 Here are some of the languages and tools I work with:  
 
 ### **Programming Languages**  
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 
@@ -41,13 +40,6 @@ Here are some of the languages and tools I work with:
 
 [![Wizrahat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wizrahat&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
-## 📂 Projects  
-
-Here are a few projects I've worked on:  
-
-- [**Project 1**](https://github.com/wizrahat/project1): *Brief description of project 1*  
-- [**Project 2**](https://github.com/wizrahat/project2): *Brief description of project 2*  
-- [**Project 3**](https://github.com/wizrahat/project3): *Brief description of project 3*  
 
 ## 🌐 Connect with Me  
 
