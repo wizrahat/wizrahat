@@ -44,7 +44,7 @@ Here are some of the languages and tools I work with:
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wizrahat)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/wiz_rahat)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/wizrahat24)  
 
 ---
 
